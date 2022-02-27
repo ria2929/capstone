@@ -1,0 +1,58 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#shape {
+    background-color: rgb(241, 233, 250);
+}
+
+#shapes {
+    background-color: rgb(223, 249, 252);
+}
+
+#color
+{
+    background-color: rgb(253, 231, 234);
+}
+
+
+#multi
+{
+    background-color: rgb(223, 247, 247);
+}
+
+
+#dice
+{
+    background-color: rgb(252, 229, 238);
+}
+
+#food
+{
+    background-color: rgb(226, 224, 245);
+}
+
+#space
+{
+    background-color: rgb(247, 230, 230);
+}
+
+#school
+{
+    background-color: rgb(245, 222, 240);
+}
+
+#game
+{
+    background-color: rgb(229, 245, 250);
+}
+
+
+
+
+
